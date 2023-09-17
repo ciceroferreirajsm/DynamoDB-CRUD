@@ -1,6 +1,6 @@
 # Projeto CRUD com DynamoDB e .NET Core
 
-Este é um projeto de exemplo que demonstra como criar um aplicativo CRUD usando o Amazon DynamoDB e o .NET Core. Este aplicativo permite a criação, leitura, atualização e exclusão de registros em uma tabela do DynamoDB.
+Este é um projeto de exemplo que demonstra como criar um CRUD usando o Amazon DynamoDB e o .NET Core. Esta aplicação permite a criação, leitura, atualização e exclusão de registros em uma tabela do DynamoDB.
 
 ## Pré-requisitos
 
